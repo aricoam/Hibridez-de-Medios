@@ -8,6 +8,7 @@ La diferencia con respecto a otros conceptos que presenta la hibridación sería
 	
 
  -  **La multimedia** se refiere a la coexistencia de diferentes medios (texto, imagen, video, sonido) en un mismo entorno, pero sin que estos interactúen entre sí, como en una página web clásica de principios de los dos mil. Mientras que en **la hibridación** los medios interactúan con otros medios y se transforman entre sí. Es claro en el ejemplo de Alsace, mencionado por Manovich, donde un espacio virtual 3D contiene películas, vídeo y clips, permitiendo navegar entre ellos de forma integra.
+   
  - **La remediación** describe cómo los nuevos medios absorben, imitan o reinterpretan formatos de medios preexistentes, ya sea mejorándolos o resaltando su estética original. Por su parte, **la hibridación** trata como se combinan, como se transforman y reconfiguran entre esos medios preexistentes en los nuevos medios.
 
 ## Discord
